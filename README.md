@@ -1,15 +1,15 @@
-# 📘 Inter Departmental Collaboration Hub
+#  Inter Departmental Collaboration Hub
 
 A Java-based application designed to improve coordination and collaboration between multiple departments within an institution by integrating Java, MongoDB, and Doubly Linked Lists for efficient data handling.
 
 ---
 
-## 🎯 Aim
+##  Aim
 To build a platform that enables seamless interaction, project tracking, and data sharing between departments, supported by MongoDB for persistent storage and Doubly Linked Lists for fast in-memory operations.
 
 ---
 
-## ✨ Features
+##  Features
 - Add, update, delete department details  
 - Add, update, delete student details inside each department  
 - Search departments and students  
@@ -20,7 +20,7 @@ To build a platform that enables seamless interaction, project tracking, and dat
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Java (JDK 8+)**
 - **MongoDB / MongoDB Compass**
 - **MongoDB Java Driver**
@@ -29,7 +29,7 @@ To build a platform that enables seamless interaction, project tracking, and dat
 
 ---
 
-## 🖥️ System Requirements
+##  System Requirements
 
 ### Hardware
 - Processor: Intel Core i3 or higher  
@@ -45,7 +45,7 @@ To build a platform that enables seamless interaction, project tracking, and dat
 
 ---
 
-## 🧩 Project Development Steps
+##  Project Development Steps
 
 ### 1️⃣ Understanding the Problem
 - Identified issues with manual data handling between departments.
@@ -100,7 +100,7 @@ To build a platform that enables seamless interaction, project tracking, and dat
 
 ---
 
-## 📥 Installation Guide
+##  Installation Guide
 
 ### Step 1: Install Java
 Download and install JDK 8 or higher.
@@ -124,7 +124,7 @@ Place the JAR files inside your project’s library folder.
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### Compile the program:
 javac InterDepartmentalCollaborationHub.java
@@ -140,7 +140,7 @@ Copy code
 
 ---
 
-## 🧾 Output
+##  Output
 
 ### ✔ Console Output
 === Inter Departmental Collaboration Hub ===
@@ -174,7 +174,7 @@ Copy code
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 /PROJECT
 │── src/
 │ ├── InterDepartmentalCollaborationHub.java
@@ -191,14 +191,14 @@ Copy code
 
 ---
 
-## 📌 Submit GitHub Link
+##  Submit GitHub Link
 - This repository contains the complete source code for the project.  
 - It is set to **public** for reviewer access.  
 - The repository includes a clean structure and a detailed README explaining setup, requirements, and how to run the project.  
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 - Add user authentication  
 - Develop a full GUI (JavaFX / Swing)  
 - Add analytics dashboard  
